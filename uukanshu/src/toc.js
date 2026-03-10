@@ -1,6 +1,9 @@
 load("config.js");
 
 function execute(url) {
+  if (!url.endsWith("/")) {
+    url += "/";
+  }
   let doc = fetch(url).html();
 
   if (doc) {
