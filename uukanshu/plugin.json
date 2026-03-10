@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "uukanshucc",
+    "author": "coda",
+    "version": 1,
+    "source": "https://uukanshu.cc",
+    "regexp": "^(https?://)?(www\\.)?uukanshu\\.cc(?:/[^/\\s]+){0,4}/?$",
+    "description": "Đọc truyện trên trang uukanshu.cc",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
