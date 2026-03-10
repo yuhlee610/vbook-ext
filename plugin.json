@@ -7,10 +7,10 @@
     {
       "name": "uukanshu",
       "author": "coda",
-      "path": "https://raw.githubusercontent.com/yuhlee610/vbook-ext/master/uukanshu/plugin.zip",
+      "path": "https://raw.githubusercontent.com/yuhlee610/vbook-ext/main/uukanshu/plugin.zip",
       "version": 1,
       "source": "https://uukanshu.cc",
-      "icon": "https://raw.githubusercontent.com/yuhlee610/vbook-ext/master/uukanshu/icon.png",
+      "icon": "https://raw.githubusercontent.com/yuhlee610/vbook-ext/main/uukanshu/icon.png",
       "description": "Đọc truyện trên trang uukanshu.cc",
       "type": "novel",
       "locale": "zh_CN"
